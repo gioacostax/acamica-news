@@ -2,7 +2,7 @@
 
 Este es un proyecto para el curso de Front-End Avanzado en React. Consiste en una lista de noticias que pueden ser del día o filtradas por categoria. Cuenta también con la opción de un buscador.
 
-Pueden probarlo en el siguiente link: https://acamica-a10hyn62z.vercel.app/ o ejecutarlo localmente
+Pueden probarlo en el siguiente link: https://acamica-orpin.now.sh/ o ejecutarlo localmente
 
 ## Para ejecutarlo
 
