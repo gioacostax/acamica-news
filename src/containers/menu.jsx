@@ -43,7 +43,7 @@ export default function Menu() {
   return (
     <div style={styles}>
       <NavLink style={linkStyle} to="/">HOME</NavLink>
-      <NavLink style={linkStyle} to="/news?category=1">POÍTICA</NavLink>
+      <NavLink style={linkStyle} to="/news?category=1">POLÍTICA</NavLink>
       <NavLink style={linkStyle} to="/news?category=2">INTERNACIONAL</NavLink>
       <NavLink style={linkStyle} to="/news?category=3">TECNOLOGÍA</NavLink>
       <NavLink style={linkStyle} to="/news?category=4">ESPECTÁCULOS</NavLink>
